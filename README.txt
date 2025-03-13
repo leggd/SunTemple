@@ -51,3 +51,7 @@ How to Run:
 2. Navigate to the project directory.
 3. Run the game by executing the Python script:
    python temple_game.py
+
+Credits:
+
+Daniel Legg (Created as a Foundation Year Assignment for 'Programming Fundamentals' Module)
